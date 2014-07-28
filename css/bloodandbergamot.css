@@ -1,0 +1,53 @@
+/*font-family: 'Overlock','Pompiere', 'Poiret One', 'Neucha', 'Tangerine', 'Metamorphous', 'Forum', 'Satisfy',  cursive;*/
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: /*Helvetica*/ Letter Gothic Std, sans-serif;
+  font-size: 14px;
+  background-color: none;
+}
+
+.brand {
+  font-family: 'Pompiere', sans-serif;
+  font-size: 64px; 
+  color: #990000;
+}
+
+#blood {
+  /*font-family: Letter Gothic Std, Arial, Verdana, sans-serif; */
+  font-family: 'Overlock','Pompiere', 'Poiret One', 'Neucha', 'Tangerine', 'Metamorphous', 'Forum', 'Satisfy',  cursive;
+  text-align: center;
+}
+
+#bergamot {
+  font-family: Zapfino, cursive;
+}
+
+.white {
+  color: #ffffff;    
+}
+
+.gray {
+  background-color: #cccccc;
+}
+
+#Home {
+  margin: 0;    
+  padding: 140px, 0px 140px, 0px;
+  background-image: url(../images/park-bench.jpg);
+  background-size: cover;
+  background-color: none;
+}
+
+#Footer {
+  margin: 0;    
+  padding: 100px, 0px 100px, 0px;  
+  background-image: url(../images/tea-and-cabbage1.jpg);
+  min-height: 400px;
+} 
+
+section {
+  margin: 0;;    
+  padding: 80px 0px 80px 0px;    
+}
