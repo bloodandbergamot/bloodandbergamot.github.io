@@ -16,7 +16,8 @@ html, body {
 
 #blood {
   /*font-family: Letter Gothic Std, Arial, Verdana, sans-serif; */
-  font-family: 'Overlock','Pompiere', 'Poiret One', 'Neucha', 'Tangerine', 'Metamorphous', 'Forum', 'Satisfy',  cursive;
+  font-family: 'Pompiere', cursive;
+  /* font-family: 'Overlock','Pompiere', 'Poiret One', 'Neucha', 'Tangerine', 'Metamorphous', 'Forum', 'Satisfy',  cursive; */
   text-align: center;
 }
 
