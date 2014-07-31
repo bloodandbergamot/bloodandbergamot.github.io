@@ -43,7 +43,7 @@ html, body {
 #Home {
   margin: 0;    
   padding: 200px, 0px 200px, 0px;
-  background-image: url(../images/park-bench.jpg);
+  background-image: url(../images/park-bench-optimized-header.jpg);
   background-size: cover;
   background-color: none;
 }
@@ -51,7 +51,7 @@ html, body {
 #Contact {
   margin: 0;    
   padding: 100px, 0px 100px, 0px;  
-  background-image: url(../images/tea-and-cabbage1.jpg);
+  background-image: url(../images/tea-cabbage-optimized.jpg);
   min-height: 400px;
 } 
 
