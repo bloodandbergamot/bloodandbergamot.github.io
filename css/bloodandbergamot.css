@@ -22,11 +22,14 @@ html, body {
   /*font-family: Letter Gothic Std, Arial, Verdana, sans-serif; */
   font-family: 'Tangerine', cursive;
   /* font-family: 'Overlock','Pompiere', 'Poiret One', 'Neucha', 'Tangerine', 'Metamorphous', 'Forum', 'Satisfy',  cursive; */
+  font-size: 1.5em;
   text-align: center;
+    
 }
 
 #bergamot {
   font-family: 'Tangerine', 'Pompiere', 'Zapfino', cursive;
+  font-size: 1.5em;
 }
 
 .white {
@@ -45,7 +48,7 @@ html, body {
   background-color: none;
 }
 
-#Footer {
+#Contact {
   margin: 0;    
   padding: 100px, 0px 100px, 0px;  
   background-image: url(../images/tea-and-cabbage1.jpg);
