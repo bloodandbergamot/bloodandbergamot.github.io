@@ -1,9 +1,7 @@
-/*font-family: 'Overlock','Pompiere', 'Poiret One', 'Neucha', 'Tangerine', 'Metamorphous', 'Forum', 'Satisfy',  cursive;*/
-
 html, body {
   margin: 0;
   padding: 0;
-  font-family: /*Helvetica*/ Letter Gothic Std, sans-serif;
+  font-family: Helvetica, Verdana, Arial, sans-serif;
   font-size: 14px;
   background-color: none;
 }
@@ -24,9 +22,7 @@ html, body {
 }
 
 #blood {
-  /*font-family: Letter Gothic Std, Arial, Verdana, sans-serif; */
-  font-family: 'Tangerine', cursive;
-  /* font-family: 'Overlock','Pompiere', 'Poiret One', 'Neucha', 'Tangerine', 'Metamorphous', 'Forum', 'Satisfy',  cursive; */
+  font-family: 'Tangerine', 'Pompiere', 'Zapfino', cursive;
   font-size: 1.5em;
   text-align: center;
     
